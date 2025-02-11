@@ -1,4 +1,4 @@
-# Croquet Microverse (Beta)
+# Croquet Microverse (Beta) with enhanced text editing
 
 ![Microverse Screenshot](https://croquet.io/images/microversess.png)
 
